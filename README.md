@@ -7,3 +7,7 @@ This is my Serverless portfolio. It uses AWS and ReactJS.
 Git and Github
 SSH
 Brew
+html
+CSS
+font Awesome
+Google Fonts
